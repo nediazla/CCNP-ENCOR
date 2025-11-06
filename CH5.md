@@ -86,7 +86,9 @@ interface Gi0/2
 
 **Comando clave:**
 
-`vtp version 3`
+```
+vtp version 3
+```
 
 ---
 
@@ -202,7 +204,9 @@ interface Port-channel3
 
 **Verificación:**
 
-`show interface port-channel 3`
+```
+show interface port-channel 3
+```
 
 ---
 
@@ -223,11 +227,15 @@ El switch distribuye el tráfico en los enlaces activos usando algoritmos hash b
 
 **Configuración:**
 
-`port-channel load-balance src-dst-ip`
+```
+port-channel load-balance src-dst-ip
+```
 
 **Verificación:**
 
-`show etherchannel load-balance`
+```
+show etherchannel load-balance
+```
 
 ---
 

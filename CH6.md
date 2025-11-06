@@ -99,7 +99,9 @@ Permite balanceo proporcional mediante el comando `variance`.
 
 Referencia solo la interfaz de salida:
 
-`ip route 192.168.10.0 255.255.255.0 GigabitEthernet0/1`
+```
+ip route 192.168.10.0 255.255.255.0 GigabitEthernet0/1
+```
 
 Requiere que la interfaz esté _up_ para instalarse en la RIB.
 
@@ -109,7 +111,9 @@ Requiere que la interfaz esté _up_ para instalarse en la RIB.
 
 Usa una dirección IP de siguiente salto; el router busca recursivamente la interfaz de salida:
 
-`ip route 192.168.10.0 255.255.255.0 10.10.10.1`
+```
+ip route 192.168.10.0 255.255.255.0 10.10.10.1
+```
 
 ---
 
@@ -117,7 +121,9 @@ Usa una dirección IP de siguiente salto; el router busca recursivamente la inte
 
 Define tanto la interfaz como la IP del siguiente salto (útil en interfaces multiacceso):
 
-`ip route 192.168.10.0 255.255.255.0 GigabitEthernet0/1 10.10.10.1`
+```
+ip route 192.168.10.0 255.255.255.0 GigabitEthernet0/1 10.10.10.1
+```
 
 ---
 
@@ -125,7 +131,9 @@ Define tanto la interfaz como la IP del siguiente salto (útil en interfaces mul
 
 Ruta de respaldo con mayor AD que la principal:
 
-`ip route 192.168.10.0 255.255.255.0 10.10.10.2 200`
+```
+ip route 192.168.10.0 255.255.255.0 10.10.10.2 200
+```
 
 Solo se instala si la ruta principal desaparece.
 

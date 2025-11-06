@@ -168,32 +168,44 @@ spanning-tree mst configuration
 Permite que un puerto de acceso pase directamente a _forwarding_, evitando el retardo de los estados Listening/Learning.  
 Uso: en puertos conectados a hosts.
 
-`spanning-tree portfast`
+```
+spanning-tree portfast
+```
 
 **b. BPDU Guard**  
 Desactiva un puerto si recibe una BPDU (previene loops).
 
-`spanning-tree bpduguard enable`
+```
+spanning-tree bpduguard enable
+```
 
 **c. Root Guard**  
 Evita que un puerto no autorizado se convierta en Root Port.
 
-`spanning-tree guard root`
+```
+spanning-tree guard root
+```
 
 **d. Loop Guard**  
 Previene que puertos alternativos se activen indebidamente al dejar de recibir BPDUs.
 
-`spanning-tree guard loop`
+```
+spanning-tree guard loop
+```
 
 **e. BPDU Filter**  
 Bloquea el envío y recepción de BPDUs en puertos específicos (usado solo en entornos controlados).
 
-`spanning-tree bpdufilter enable`
+```
+spanning-tree bpdufilter enable
+```
 
 **f. Bridge Assurance**  
 Detecta fallos unidireccionales entre switches vecinos en enlaces de capa 2 troncales.
 
-`spanning-tree bridge assurance`
+```
+spanning-tree bridge assurance
+```
 
 ---
 

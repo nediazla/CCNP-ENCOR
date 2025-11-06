@@ -60,7 +60,9 @@ errdisable recovery interval 30
 
 **Verificación:**
 
-`show spanning-tree summary`
+```
+show spanning-tree summary
+```
 
 ---
 
@@ -74,7 +76,9 @@ Evita el envío o recepción de BPDUs, dependiendo de su modo de aplicación.
     Solo afecta a puertos con **PortFast activo**.  
     Si recibe una BPDU, se desactiva el filtro y el puerto pierde su estado PortFast.
     
-    `spanning-tree portfast bpdufilter default`
+```
+spanning-tree portfast bpdufilter default
+```
     
 - **Por interfaz:**  
     Desactiva completamente el envío/recepción de BPDUs (sin depender de PortFast).
@@ -98,11 +102,15 @@ Si un puerto recibe una BPDU con mejor prioridad que el root actual, se coloca e
 
 **Comando:**
 
-`spanning-tree guard root`
+```
+spanning-tree guard root
+```
 
 **Verificación:**
 
-`show spanning-tree inconsistentports`
+```
+show spanning-tree inconsistentports
+```
 
 ---
 
@@ -121,7 +129,9 @@ Sin Loop Guard, el puerto podría asumir incorrectamente que la topología está
 
 **Configuración global:**
 
-`spanning-tree loopguard default`
+```
+spanning-tree loopguard default
+```
 
 **Configuración por interfaz:**
 
@@ -141,11 +151,15 @@ Si un switch deja de recibir BPDUs de su vecino, el puerto se bloquea.
 
 **Comando:**
 
-`spanning-tree bridge assurance`
+```
+spanning-tree bridge assurance
+```
 
 **Verificación:**
 
-`show spanning-tree summary`
+```
+show spanning-tree summary
+```
 
 **Importante:** se usa únicamente en **enlaces punto a punto entre switches** con STP habilitado.
 
@@ -201,7 +215,9 @@ interface GigabitEthernet0/1
 
 **Verificación:**
 
-`show spanning-tree vlan 1`
+```
+show spanning-tree vlan 1
+```
 
 ---
 

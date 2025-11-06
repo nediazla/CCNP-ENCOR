@@ -117,7 +117,9 @@ spanning-tree mst 2 root secondary
 ```
 **O establecer prioridad manualmente:**
 
-`spanning-tree mst 1 priority 4096`
+```
+spanning-tree mst 1 priority 4096
+```
 
 Esto permite distribuir la carga entre switches:
 
@@ -148,7 +150,9 @@ spanning-tree mst 1 cost 20000
 
 **Verificación:**
 
-`show spanning-tree mst 1`
+```
+show spanning-tree mst 1
+```
 
 ---
 

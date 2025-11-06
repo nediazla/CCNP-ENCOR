@@ -88,7 +88,9 @@ K1=1, K2=0, K3=1, K4=0, K5=0
     
 - Ajuste mediante:
     
-    `metric rib-scale 128`
+```
+metric rib-scale 128
+```
     
 
 ---
