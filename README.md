@@ -29,12 +29,12 @@ Todos los contenidos son **personales**, redactados como herramienta de estudio 
 
 A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 
-- [[CH01]] - 
-- [[CH02]] - 
-- [[CH03]] - 
-- [[CH04]] - 
-- [[CH05]] - 
-- [[CH06]] - 
+- [CH01 - ](CH01.md) 
+- [CH02 - ](CH02.md) 
+- [CH03 - ](CH03.md)  
+- [CH04 - ](CH04.md)  
+- [CH05 - ](CH05.md)  
+- [CH06 - ](CH06.md)  
 - [[CH07]] - 
 - [[CH08]] - 
 - [[CH09]] - 
