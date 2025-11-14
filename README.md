@@ -1,4 +1,4 @@
-# CCNP ENCOR 350-401 — Apuntes Personales
+# CCNP ENCOR 350-401 — Apuntes Personales y en español 
 
 Bienvenido a mi repositorio de apuntes personales para la certificación **Cisco CCNP Enterprise Core (ENCOR 350-401)**.  
 Este repositorio forma parte de mi preparación profesional en redes empresariales, seguridad, wireless y automatización.
@@ -29,11 +29,16 @@ Todos los contenidos son **personales**, redactados como herramienta de estudio 
 
 A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 
+## Forwarding
 - [CH01 - ](CH01.md) 
+
+## Layer 2
 - [CH02 - ](CH02.md) 
 - [CH03 - ](CH03.md)  
 - [CH04 - ](CH04.md)  
 - [CH05 - ](CH05.md)  
+
+## Routing
 - [CH06 - ](CH06.md)  
 - [CH07 - ](CH07.md)  
 - [CH08 - ](CH08.md)  
@@ -42,13 +47,35 @@ A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 - [CH11 - ](CH11.md) 
 - [CH12 - ](CH12.md) 
 - [CH13 - ](CH13.md) 
+
+## Services
 - [CH14 - ](CH14.md) 
 - [CH15 - ](CH15.md) 
+
+## Overlay
 - [CH16 - ](CH16.md) 
+
+## Wireless
 - [CH17 - ](CH17.md) 
 - [CH18 - ](CH18.md) 
 - [CH19 - ](CH19.md) 
-- 
+- [CH20 - ](CH20.md)
+- [CH21 - ](CH21.md)
+
+## Architecture
+- [CH22 - ](CH22.md)
+- [CH23 - ](CH23.md)
+- [CH24 - ](CH24.md)
+
+## Security
+- [CH25 - ](CH25.md)
+- [CH26 - ](CH26.md)
+
+## SDN
+- [CH27 - ](CH27.md)
+- [CH28 - ](CH19.md)
+- [CH29 - ](CH19.md)
+- [Do i know already](Do_i_know_already.md)
 ---
 
 ## Metodología de estudio
