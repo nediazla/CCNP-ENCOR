@@ -35,19 +35,19 @@ A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 - [CH04 - ](CH04.md)  
 - [CH05 - ](CH05.md)  
 - [CH06 - ](CH06.md)  
-- [[CH07]] - 
-- [[CH08]] - 
-- [[CH09]] - 
-- [[CH10]] - 
-- [[CH11]] -
-- [[CH12]] -
-- [[CH13]] -
-- [[CH14]] -
-- [[CH15]] -
-- [[CH16]] -
-- [[CH17]] -
-- [[CH18]] -
-- [[CH19]] -
+- [CH07 - ](CH07.md)  
+- [CH08 - ](CH08.md)  
+- [CH09 - ](CH09.md)  
+- [CH10 - ](CH10.md)  
+- [CH11 - ](CH11.md) 
+- [CH12 - ](CH12.md) 
+- [CH13 - ](CH13.md) 
+- [CH14 - ](CH14.md) 
+- [CH15 - ](CH15.md) 
+- [CH16 - ](CH16.md) 
+- [CH17 - ](CH17.md) 
+- [CH18 - ](CH18.md) 
+- [CH19 - ](CH19.md) 
 - 
 ---
 
