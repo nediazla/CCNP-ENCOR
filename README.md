@@ -75,7 +75,7 @@ A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 - [CH27 - ](CH27.md)
 - [CH28 - ](CH19.md)
 - [CH29 - ](CH19.md)
-- [Do i know already](Do_i_know_already.md)
+
 ---
 
 ## Metodología de estudio
