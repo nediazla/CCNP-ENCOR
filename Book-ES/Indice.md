@@ -11,15 +11,15 @@
 - [CH06 - ](CH06.md)  
 - [CH07 - ](CH07.md)  
 - [CH08 - ](CH08.md)  
-- [CH09 - ](Resume/CH09.md)  
-- [CH10 - ](Resume/CH10.md)  
-- [CH11 - ](Resume/CH11.md) 
-- [CH12 - ](Resume/CH12.md) 
-- [CH13 - ](Resume/CH13.md) 
+- [CH09 - ](CH09.md)  
+- [CH10 - ](CH10.md)  
+- [CH11 - ](CH11.md) 
+- [CH12 - ](CH12.md) 
+- [CH13 - ](CH13.md) 
 
 ## Services
-- [CH14 - ](Resume/CH14.md) 
-- [CH15 - ](Resume/CH15.md) 
+- [CH14 - ](CH14.md) 
+- [CH15 - ](CH15.md) 
 
 ## Overlay
 - [CH16 - ](Resume/CH16.md) 
