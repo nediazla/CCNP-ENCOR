@@ -30,41 +30,41 @@ Todos los contenidos son **personales**, redactados como herramienta de estudio 
 A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 
 ## Forwarding
-- [CH01 - ](CH01.md) 
+- [CH01 - ](CCNP-ENCOR/Resume/CH01.md) 
 
 ## Layer 2
-- [CH02 - ](CH02.md) 
-- [CH03 - ](CH03.md)  
-- [CH04 - ](CH04.md)  
-- [CH05 - ](CH05.md)  
+- [CH02 - ](CCNP-ENCOR/Resume/CH02.md) 
+- [CH03 - ](CCNP-ENCOR/CH03.md)  
+- [CH04 - ](CCNP-ENCOR/CH04.md)  
+- [CH05 - ](CCNP-ENCOR/CH05.md)  
 
 ## Routing
-- [CH06 - ](CH06.md)  
-- [CH07 - ](CH07.md)  
-- [CH08 - ](CH08.md)  
-- [CH09 - ](CH09.md)  
-- [CH10 - ](CH10.md)  
-- [CH11 - ](CH11.md) 
-- [CH12 - ](CH12.md) 
-- [CH13 - ](CH13.md) 
+- [CH06 - ](CCNP-ENCOR/CH06.md)  
+- [CH07 - ](CCNP-ENCOR/CH07.md)  
+- [CH08 - ](CCNP-ENCOR/CH08.md)  
+- [CH09 - ](CCNP-ENCOR/CH09.md)  
+- [CH10 - ](CCNP-ENCOR/CH10.md)  
+- [CH11 - ](CCNP-ENCOR/CH11.md) 
+- [CH12 - ](CCNP-ENCOR/CH12.md) 
+- [CH13 - ](CCNP-ENCOR/CH13.md) 
 
 ## Services
-- [CH14 - ](CH14.md) 
-- [CH15 - ](CH15.md) 
+- [CH14 - ](CCNP-ENCOR/CH14.md) 
+- [CH15 - ](CCNP-ENCOR/CH15.md) 
 
 ## Overlay
-- [CH16 - ](CH16.md) 
+- [CH16 - ](CCNP-ENCOR/CH16.md) 
 
 ## Wireless
-- [CH17 - ](CH17.md) 
-- [CH18 - ](CH18.md) 
-- [CH19 - ](CH19.md) 
-- [CH20 - ](CH20.md)
-- [CH21 - ](CH21.md)
+- [CH17 - ](CCNP-ENCOR/CH17.md) 
+- [CH18 - ](CCNP-ENCOR/CH18.md) 
+- [CH19 - ](CCNP-ENCOR/CH19.md) 
+- [CH20 - ](CCNP-ENCOR/CH20.md)
+- [CH21 - ](CCNP-ENCOR/CH21.md)
 
 ## Architecture
-- [CH22 - ](CH22.md)
-- [CH23 - ](CH23.md)
+- [CH22 - ](CCNP-ENCOR/CH22.md)
+- [CH23 - ](CCNP-ENCOR/CH23.md)
 - [CH24 - ](CH24.md)
 
 ## Security
@@ -73,8 +73,8 @@ A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 
 ## SDN
 - [CH27 - ](CH27.md)
-- [CH28 - ](CH19.md)
-- [CH29 - ](CH19.md)
+- [CH28 - ](CCNP-ENCOR/CH19.md)
+- [CH29 - ](CCNP-ENCOR/CH19.md)
 
 ---
 
