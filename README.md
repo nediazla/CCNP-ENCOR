@@ -30,12 +30,12 @@ Todos los contenidos son **personales**, redactados como herramienta de estudio 
 A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 
 ## Forwarding
-- [CH01 - ](CCNP-ENCOR/Resume/CH01.md) 
+- [CH01 - ](Resume/CH01.md) 
 
 ## Layer 2
-- [CH02 - ](CCNP-ENCOR/Resume/CH02.md) 
-- [CH03 - ](CCNP-ENCOR/CH03.md)  
-- [CH04 - ](CCNP-ENCOR/CH04.md)  
+- [CH02 - ](Resume/CH02.md) 
+- [CH03 - ](Resume/CH03.md)  
+- [CH04 - ](Resume/CH04.md)  
 - [CH05 - ](CCNP-ENCOR/CH05.md)  
 
 ## Routing
