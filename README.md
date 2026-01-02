@@ -36,45 +36,49 @@ A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 - [CH02 - ](Resume/CH02.md) 
 - [CH03 - ](Resume/CH03.md)  
 - [CH04 - ](Resume/CH04.md)  
-- [CH05 - ](CCNP-ENCOR/CH05.md)  
+- [CH05 - ](Resume/CH05.md)  
 
 ## Routing
-- [CH06 - ](CCNP-ENCOR/CH06.md)  
-- [CH07 - ](CCNP-ENCOR/CH07.md)  
-- [CH08 - ](CCNP-ENCOR/CH08.md)  
-- [CH09 - ](CCNP-ENCOR/CH09.md)  
-- [CH10 - ](CCNP-ENCOR/CH10.md)  
-- [CH11 - ](CCNP-ENCOR/CH11.md) 
-- [CH12 - ](CCNP-ENCOR/CH12.md) 
-- [CH13 - ](CCNP-ENCOR/CH13.md) 
+- [CH06 - ](Resume/CH06.md)  
+- [CH07 - ](Resume/CH07.md)  
+- [CH08 - ](Resume/CH08.md)  
+- [CH09 - ](Resume/CH09.md)  
+- [CH10 - ](Resume/CH10.md)  
+- [CH11 - ](Resume/CH11.md) 
+- [CH12 - ](Resume/CH12.md) 
+- [CH13 - ](Resume/CH13.md) 
 
 ## Services
-- [CH14 - ](CCNP-ENCOR/CH14.md) 
-- [CH15 - ](CCNP-ENCOR/CH15.md) 
+- [CH14 - ](Resume/CH14.md) 
+- [CH15 - ](Resume/CH15.md) 
 
 ## Overlay
-- [CH16 - ](CCNP-ENCOR/CH16.md) 
+- [CH16 - ](Resume/CH16.md) 
 
 ## Wireless
-- [CH17 - ](CCNP-ENCOR/CH17.md) 
-- [CH18 - ](CCNP-ENCOR/CH18.md) 
-- [CH19 - ](CCNP-ENCOR/CH19.md) 
-- [CH20 - ](CCNP-ENCOR/CH20.md)
-- [CH21 - ](CCNP-ENCOR/CH21.md)
+- [CH17 - ](Resume/CH17.md) 
+- [CH18 - ](Resume/CH18.md) 
+- [CH19 - ](Resume/CH19.md) 
+- [CH20 - ](Resume/CH20.md)
+- [CH21 - ](Resume/CH21.md)
 
 ## Architecture
-- [CH22 - ](CCNP-ENCOR/CH22.md)
-- [CH23 - ](CCNP-ENCOR/CH23.md)
-- [CH24 - ](CH24.md)
+- [CH22 - ](Resume/CH22.md)
+- [CH23 - ](Resume/CH23.md)
+- [CH24 - ](Resume/CH24.md)
 
 ## Security
-- [CH25 - ](CH25.md)
-- [CH26 - ](CH26.md)
+- [CH25 - ](Resume/CH25.md)
+- [CH26 - ](Resume/CH26.md)
 
 ## SDN
-- [CH27 - ](CH27.md)
-- [CH28 - ](CCNP-ENCOR/CH19.md)
-- [CH29 - ](CCNP-ENCOR/CH19.md)
+- [CH27 - ](Resume/CH27.md)
+- [CH28 - ](Resume/CH19.md)
+- [CH29 - ](Resume/CH19.md)
+
+# Adicional
+
+## [Libro Traducido al Español](Book-ES/Indice.md)
 
 ---
 
