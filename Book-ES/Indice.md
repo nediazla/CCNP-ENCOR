@@ -3,7 +3,7 @@
 
 ## Layer 2
 - [CH02 - ](CH02.md) 
-- [CH03 - ](CH03.md)  
+- [CH03 - ](CH03.md)
 - [CH04 - ](CH04.md)  
 - [CH05 - ](CH05.md)  
 
