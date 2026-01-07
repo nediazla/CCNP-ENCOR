@@ -8,8 +8,8 @@
 - [CH05 - ](CH05.md)  
 
 ## Routing
-- [CH06 - ](CCNP-ENARSI/CH06.md)  
-- [CH07 - ](CCNP-ENARSI/CH07.md)  
+- [CH06 - ](CH06.md)  
+- [CH07 - ](CH07.md)  
 - [CH08 - ](CH08.md)  
 - [CH09 - ](CH09.md)  
 - [CH10 - ](CH10.md)  
@@ -22,25 +22,25 @@
 - [CH15 - ](CH15.md) 
 
 ## Overlay
-- [CH16 - ](Resume/CH16.md) 
+- [CH16 - ](CH16.md) 
 
 ## Wireless
-- [CH17 - ](Resume/CH17.md) 
-- [CH18 - ](Resume/CH18.md) 
-- [CH19 - ](Resume/CH19.md) 
-- [CH20 - ](Resume/CH20.md)
-- [CH21 - ](Resume/CH21.md)
+- [CH17 - ](CH17.md) 
+- [CH18 - ](CH18.md) 
+- [CH19 - ](CH19.md) 
+- [CH20 - ](CH20.md)
+- [CH21 - ](CH21.md)
 
 ## Architecture
-- [CH22 - ](Resume/CH22.md)
-- [CH23 - ](Resume/CH23.md)
-- [CH24 - ](Resume/CH24.md)
+- [CH22 - ](CH22.md)
+- [CH23 - ](CH23.md)
+- [CH24 - ](CH24.md)
 
 ## Security
-- [CH25 - ](Resume/CH25.md)
-- [CH26 - ](Resume/CH26.md)
+- [CH25 - ](CH25.md)
+- [CH26 - ](CH26.md)
 
 ## SDN
-- [CH27 - ](Resume/CH27.md)
-- [CH28 - ](Resume/CH19.md)
-- [CH29 - ](Resume/CH19.md)
+- [CH27 - ](CH27.md)
+- [CH28 - ](CH28.md)
+- [CH29 - ](CH29.md)

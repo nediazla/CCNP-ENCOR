@@ -73,8 +73,8 @@ A medida que voy avanzando en el estudio, agrego capítulos detallados como:
 
 ## SDN
 - [CH27 - ](Resume/CH27.md)
-- [CH28 - ](Resume/CH19.md)
-- [CH29 - ](Resume/CH19.md)
+- [CH28 - ](Resume/CH28.md)
+- [CH29 - ](Resume/CH29.md)
 
 # Adicional
 
