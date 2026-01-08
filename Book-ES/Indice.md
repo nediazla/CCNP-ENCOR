@@ -10,7 +10,7 @@
 ## Routing
 - [CH06 - ](CH06.md)  
 - [CH07 - ](CH07.md)  
-- [CH08 - ](CH08.md)  
+- [CH08 - ](CCNP-ENARSI/CH08.md)  
 - [CH09 - ](CH09.md)  
 - [CH10 - ](CH10.md)  
 - [CH11 - ](CH11.md) 
