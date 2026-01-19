@@ -13,8 +13,8 @@
 - [CH08 - ](CH08.md)  
 - [CH09 - ](CH09.md)  
 - [CH10 - ](CCNP-ENARSI/CH10.md)  
-- [CH11 - ](CH11.md) 
-- [CH12 - ](CH12.md) 
+- [CH11 - ](CCNP-ENARSI/CH11.md) 
+- [CH12 - ](CCNP-ENARSI/CH12.md) 
 - [CH13 - ](CH13.md) 
 
 ## Services
