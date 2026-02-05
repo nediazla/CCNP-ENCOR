@@ -15,7 +15,7 @@
 - [CH10 - ](CCNP-ENARSI/CH10.md)  
 - [CH11 - ](CCNP-ENARSI/CH11.md) 
 - [CH12 - ](CCNP-ENARSI/CH12.md) 
-- [CH13 - ](CH13.md) 
+- [CH13 - ](CCNP-ENARSI/CH13.md) 
 
 ## Services
 - [CH14 - ](CH14.md) 
